@@ -402,9 +402,9 @@ export class TrashCard extends LitElement implements LovelaceCard {
       cardStyle,
       css`
                 ha-card.fullsize {
-                    margin-left: -17px;
-                    margin-right: -17px;
-                    margin-top: -4px;
+                    margin-left: 3px;
+                    margin-right: 3px;
+                    // margin-top: 3px;
                 }
                 mushroom-state-item {
                     cursor: pointer;
