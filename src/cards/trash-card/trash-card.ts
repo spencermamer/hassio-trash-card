@@ -19,7 +19,7 @@ import { TRASH_CARD_EDITOR_NAME, TRASH_CARD_NAME, type TrashData, type TrashData
 
 registerCustomCard({
   type: TRASH_CARD_NAME,
-  name: 'TrashCard',
+  name: 'TrashCard2',
   description: 'TrashCard - indicates what type of trash will be picked up next based on your calendar entries 🗑️'
 });
 
